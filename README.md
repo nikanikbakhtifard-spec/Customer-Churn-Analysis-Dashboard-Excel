@@ -1,46 +1,55 @@
-# 📊 Customer Churn Analysis Dashboard (Excel)
+📊 Customer Churn Analysis Dashboard (Microsoft Excel)
 
-![Dashboard Preview](IMAGE%202026-02-21%2010:33:55.jpg)
+🔍 Project Overview
 
-## 🔍 Project Overview
-This project presents an interactive Customer Churn Analysis Dashboard built in Microsoft Excel.  
-The dashboard provides insights into customer behavior, churn patterns, and key performance indicators using Pivot Tables, slicers, and dynamic visualizations.
+This project presents an interactive Customer Churn Analysis Dashboard developed in Microsoft Excel. The objective of the analysis is to examine customer retention patterns, identify key churn drivers, and provide segment-level insights through dynamic KPI tracking and visual analytics.
 
-## 📈 Key Metrics
-- Total Customers: 7,043  
-- Active Customers: 5,174  
-- Churned Customers: 1,869  
-- Overall Churn Rate: 26.54%
+The dashboard enables real-time filtering and updates based on selected customer attributes, supporting deeper business interpretation and data-driven decision-making.
 
-## 📊 Dashboard Features
-- Churn rate by Contract Type
-- Churn rate by Internet Service Type
-- Churn by Tenure Duration
-- Churn by Payment Method
-- Gender-based churn analysis
-- Senior vs Non-Senior comparison
-- Interactive slicers for dynamic filtering
+⸻
 
-## 🛠 Tools Used
-- Microsoft Excel
-- Pivot Tables
-- KPI Cards
-- Data Visualization
-- Interactive Slicers
+📈 Key Functionalities
+ • Dynamic churn rate calculation
+ • KPI tracking (Total Customers, Active Customers, Churned Customers, Churn Rate)
+ • Contract type comparison (Month-to-Month vs. One-Year vs. Two-Year)
+ • Tenure-based churn segmentation
+ • Internet service and payment method analysis
+ • Gender and senior status comparison
+ • Interactive slicers for filter-based exploration
 
-## 📁 Files Included
-- Churn DashBoard.xlsx – Interactive dashboard
-- Dataset used for analysis
-- Dashboard preview image
+All metrics update automatically based on user-selected filters.
 
-## 🎯 Business Insights
-The analysis shows that:
-- Month-to-month contracts have significantly higher churn rates.
-- Short-tenure customers are more likely to churn.
-- Payment method and service type influence churn probability.
+⸻
 
-This dashboard demonstrates practical data analysis skills, KPI tracking, and business-focused visualization using Excel.
+🎯 Analytical Insight
 
----
+The analysis indicates that churn rates are significantly higher among customers with month-to-month contracts compared to longer-term contracts. Additionally, customers with shorter tenure demonstrate higher churn tendencies, while payment method and service type further influence churn behavior.
 
-📌 Created as part of a Data Analytics portfolio project.
+These findings highlight the importance of contract structure and early customer lifecycle management in retention strategy.
+
+⸻
+
+🛠 Tools & Techniques Used
+ • Microsoft Excel
+ • Pivot Tables
+ • Pivot Charts
+ • KPI Cards
+ • Interactive Slicers
+ • Structured Data Modeling
+
+⸻
+
+📁 Repository Contents
+ • Churn DashBoard.xlsx – Fully interactive Excel dashboard
+ • dashboard-preview.jpg – Dashboard preview image
+ • Dataset embedded within the Excel file
+
+⸻
+
+📌 Purpose
+
+This project demonstrates the ability to:
+ • Perform customer churn analysis
+ • Build interactive dashboards in Excel
+ • Design structured KPI reporting systems
+ • Translate raw customer data into actionable business insights
